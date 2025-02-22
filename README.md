@@ -219,9 +219,8 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
+- **GMAIL**: TSAURABH084@gmail.com
 - **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/saurabh-tiwari-b74020114)
-- **Discord**: [Join our community to learn and grow together](https://discord.com/channels/@me))
+- **Discord**: (https://discord.com/channels/@me)
 
 Thank you for your support, and I look forward to connecting with you!
